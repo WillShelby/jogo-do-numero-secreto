@@ -65,7 +65,11 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-
+//git status = verificar modificaçoes
+// git add = adicionar mudança
+// git commit = registrar as mudanças no repositorio
+// git push = levar as mudanças
+// git pull = baixar as mudanças para o repositório local
 
 
 
